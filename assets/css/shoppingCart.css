@@ -1,0 +1,70 @@
+.cart{
+    margin: 0px 200px 100px 180px;
+    border: 1px solid red;
+}
+.row{
+    height: 200px;
+    border: 1px solid black;
+}
+.column-1{
+    width: 10%;
+    height: 120px;
+    border-right: 1px solid black;
+    float: left;
+    text-align: center;
+    padding-top: 80px;
+}
+.column-2{
+    width: 15%;
+    height: 120px;
+    border-right: 1px solid black;
+    float: left;
+    text-align: center;
+    padding-top: 80px;
+}
+.final-column-2{
+    width: 15%;
+    height: 120px;
+    float: left;
+    text-align: center;
+    padding-top: 80px;
+}
+.column-4{
+    width: 29.55%;
+    height: 120px;
+    border-right: 1px solid black;
+    float: left;
+    text-align: center;
+    padding-top: 80px;
+}
+.first-row{
+    height: 50px;
+    border: 1px solid black;
+}
+.first-column-1{
+    width: 10%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+.first-column-2{
+    width: 15%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+.first-column-4{
+    width: 30%;
+    height: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+.add{
+    margin-left: 180px;
+}
+.add input{
+    margin: 10px;
+}
